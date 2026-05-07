@@ -9,8 +9,8 @@ This project simulates a basic digital camera systems using Arduino. The system 
 - Breadboard
 - Jumper wires
 ## Circuit Diagram
-![Circuit Diagram](DigitalCamera_schematicDiagram.png)
+![Circuit Diagram](DigitalCamera_SchematicDiagram.png)
 ## Connection Diagram
-![Connection Diagram](DigitalCamera_sensconnections.png)
+![Connection Diagram](DigitalCamera_Connections.png)
 ## Demo Video
 [Click here to view demo video](DigitalCamera_Demovideo.mp4)
